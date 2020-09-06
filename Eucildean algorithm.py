@@ -1,3 +1,4 @@
+#!usr/bin/python
 def brute(c,x,y,n):
          print("Solving")
          i=1
